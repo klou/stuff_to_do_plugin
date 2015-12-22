@@ -11,7 +11,7 @@ div.pane ol li { padding: 1px 0; }
 div.pane ol li:hover { background-color:#ffffdd; }
 div.pane ol li.empty-list { background-color:#FFFFEE; padding:100px; text-align:center; font-style:italic; }
 div.menu { float:right; text-align: right; width:79%;}
-h1 {float:left; width:19%;}
+h1 {float:left; }
 
 .drop-accepted { background-color:#FFFFEE; height: 16px; width: 100%; border: 1px solid #000000; }
 
